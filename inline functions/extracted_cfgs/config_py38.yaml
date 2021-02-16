@@ -1,0 +1,6 @@
+name: first-function
+namespace: default
+runtime: python38
+source:
+    sourceType: inline
+    sourcePath: /Users/i517616/go/src/github.com/pPrecel/kyma-functions/inline functions/python38

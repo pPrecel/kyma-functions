@@ -1,0 +1,6 @@
+name: first-nodejs10
+namespace: default
+runtime: nodejs12
+source:
+    sourceType: inline
+    sourcePath: /Users/i517616/go/src/github.com/pPrecel/kyma-functions/inline functions/nodejs12

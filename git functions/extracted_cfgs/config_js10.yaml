@@ -1,0 +1,9 @@
+name: first-function
+namespace: default
+runtime: nodejs10
+source:
+    sourceType: git
+    url: https://github.com/pPrecel/kyma-functions.git
+    repository: first-function
+    reference: master
+    baseDir: "/git functions/nodejs10"

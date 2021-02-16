@@ -1,0 +1,7 @@
+{
+  "name": "first-function",
+  "version": "0.0.1",
+  "dependencies": {
+    "loggy": "^1.0.8"
+  }
+}
